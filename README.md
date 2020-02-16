@@ -1,6 +1,6 @@
 # E.U-FET-Resources-App
 Egerton University fet resources app source code
-
+DOWNLOAD APP Egerton University faculty of Engineering (E.U FETRESOURCES  ) APP http://www.mediafire.com/file/qqq8qddkdtnsey4/E.U_FET_Resources_App_.apk/file
 <a href="https://github.com/mgks/Android-SmartWebView/"><img src="https://yt3.ggpht.com/a/AGF-l79xxreM4k5oq1461DmD_7zVybAxjqJXIitf8A=s900-mo-c-c0xffffffff-rj-k-no" width="65"></a>
 
 # E.U FET Resources
