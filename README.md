@@ -1,7 +1,3 @@
-Here’s the revised version of your **Smart StudyRoom – Egerton University** app description **without any mention of Sizzle**, while keeping all the useful features:
-
----
-
 **Smart StudyRoom – Egerton University**
 
 Welcome to **Smart StudyRoom**, your all-in-one academic hub at Egerton University — built *by students, for students*. Whether you’re studying Agricultural, Mechanical, Civil, or Electrical Engineering, this app is designed to make your learning journey faster, smarter, and more affordable.
